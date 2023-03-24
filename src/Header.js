@@ -11,7 +11,7 @@ function Header() {
           src="https://assets.materialup.com/uploads/66f90e03-d02a-4975-b66b-6ff73ff8923a/preview"
         
         /> 
-          <h2>MyTodo</h2>
+          <h3>MyTodo</h3>
 
 
       <div className="header__nav">
